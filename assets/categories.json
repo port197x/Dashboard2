@@ -1,0 +1,10 @@
+{
+  "Geospatial": "./assets/icons/geo-fill.svg",
+  "AI": "./assets/icons/robot.svg",
+  "Work": "./assets/icons/person-workspace.svg",
+  "Home Network": "./assets/icons/house-fill.svg",
+  "Learning": "./assets/icons/book-half.svg",
+  "Tools": "./assets/icons/tools.svg",
+  "News": "./assets/icons/newspaper.svg",
+  "Status": "./assets/icons/bell-fill.svg"
+}

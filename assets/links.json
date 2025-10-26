@@ -1,0 +1,627 @@
+
+  [
+  {
+    "title": "Outlook",
+    "url": "https://outlook.office.com/",
+    "favicon": "https://outlook.office.com/favicon.ico",
+    "alt": "Outlook",
+    "category": "Work"
+  },
+  {
+    "title": "Teams",
+    "url": "https://teams.microsoft.com/",
+    "favicon": "https://teams.microsoft.com/favicon.ico",
+    "alt": "Teams",
+    "category": "Work"
+  },
+  {
+    "title": "Confluence",
+    "url": "https://www.atlassian.com/software/confluence",
+    "favicon": "https://www.google.com/s2/favicons?domain=atlassian.com",
+    "alt": "Confluence",
+    "category": "Work"
+  },
+  {
+    "title": "GitHub",
+    "url": "https://www.github.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=github.com",
+    "alt": "GitHub",
+    "category": "Work"
+  },
+  {
+    "title": "namecheap",
+    "url": "https://www.namecheap.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=namecheap.com",
+    "alt": "Namecheap",
+    "category": "Work"
+  },
+  {
+    "title": "Cloudflare",
+    "url": "https://www.cloudflare.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=cloudflare.com",
+    "alt": "Cloudflare",
+    "category": "Work"
+  },
+  {
+    "title": "Docker Hub",
+    "url": "https://hub.docker.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=docker.com",
+    "alt": "Docker Hub",
+    "category": "Work"
+  },
+  {
+    "title": "Netlify",
+    "url": "https://www.netlify.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=netlify.com",
+    "alt": "Netlify",
+    "category": "Work"
+  },
+  {
+    "title": "Pipedream",
+    "url": "https://pipedream.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=pipedream.com",
+    "alt": "Pipedream",
+    "category": "Work"
+  },
+  {
+    "title": "Pushover",
+    "url": "https://pushover.net/",
+    "favicon": "https://www.google.com/s2/favicons?domain=pushover.net",
+    "alt": "Pushover",
+    "category": "Work"
+  },
+  {
+    "title": "Google Fonts",
+    "url": "https://fonts.google.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=fonts.google.com",
+    "alt": "Google Fonts",
+    "category": "Work"
+  },
+  {
+    "title": "W3C Tools",
+    "url": "https://www.w3.org/developers/tools/",
+    "favicon": "https://www.google.com/s2/favicons?domain=w3c.org",
+    "alt": "W3C Tools",
+    "category": "Work"
+  },
+  {
+    "title": "MetaTags",
+    "url": "https://metatags.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=metatags.io",
+    "alt": "MetaTags",
+    "category": "Work"
+  },
+  {
+    "title": "OpenGraph",
+    "url": "https://www.opengraph.xyz/",
+    "favicon": "https://www.google.com/s2/favicons?domain=opengraph.xyz",
+    "alt": "OpenGraph",
+    "category": "Work"
+  },
+  {
+    "title": "HeyMeta",
+    "url": "https://www.heymeta.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=heymeta.com",
+    "alt": "HeyMeta",
+    "category": "Work"
+  },
+  {
+    "title": "Badgen",
+    "url": "https://badgen.net/",
+    "favicon": "https://www.google.com/s2/favicons?domain=badgen.net",
+    "alt": "Badgen",
+    "category": "Work"
+  },
+  {
+    "title": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=openstreetmap.org",
+    "alt": "OpenStreetMap",
+    "category": "Geospatial"
+  },
+  {
+    "title": "Mapquest",
+    "url": "https://www.mapquest.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=mapquest.com",
+    "alt": "Mapquest",
+    "category": "Geospatial"
+  },
+  {
+    "title": "geojson",
+    "url": "https://geojson.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=geojson.io",
+    "alt": "geojson",
+    "category": "Geospatial"
+  },
+  {
+    "title": "Kepler",
+    "url": "https://kepler.gl/",
+    "favicon": "https://www.google.com/s2/favicons?domain=kepler.gl",
+    "alt": "Kepler",
+    "category": "Geospatial"
+  },
+  {
+    "title": "GeoData USDA",
+    "url": "https://datagateway.nrcs.usda.gov/GDGHome.aspx",
+    "favicon": "https://www.google.com/s2/favicons?domain=usda.gov",
+    "alt": "GeoData USDA",
+    "category": "Geospatial"
+  },
+  {
+    "title": "NCAT NOAA",
+    "url": "https://www.ngs.noaa.gov/NCAT/",
+    "favicon": "https://www.google.com/s2/favicons?domain=noaa.gov",
+    "alt": "NCAT NOAA",
+    "category": "Geospatial"
+  },
+  {
+    "title": "AFIDA",
+    "url": "https://www.fsa.usda.gov/resources/economic-policy-analysis/afida/annual-reports",
+    "favicon": "https://www.google.com/s2/favicons?domain=usda.gov",
+    "alt": "AFIDA",
+    "category": "Geospatial"
+  },
+  {
+    "title": "ScribbleMaps",
+    "url": "https://www.scribblemaps.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=scribblemaps.com",
+    "alt": "ScribbleMaps",
+    "category": "Geospatial"
+  },
+  {
+    "title": "GhostMaps",
+    "url": "https://github.com/s2underground/GhostMaps",
+    "favicon": "https://www.google.com/s2/favicons?domain=github.com",
+    "alt": "GhostMaps",
+    "category": "Geospatial"
+  },
+  {
+    "title": "CityAccessMap",
+    "url": "https://www.cityaccessmap.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=cityaccessmap.com",
+    "alt": "CityAccessMap",
+    "category": "Geospatial"
+  },
+  {
+    "title": "Maps ORS",
+    "url": "https://maps.openrouteservice.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=openrouteservice.org",
+    "alt": "Maps ORS",
+    "category": "Geospatial"
+  },
+  {
+    "title": "OpenRoute",
+    "url": "https://www.openrouteservice.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=openrouteservice.org",
+    "alt": "OpenRoute",
+    "category": "Geospatial"
+  },
+  {
+    "title": "OSM Export",
+    "url": "https://www.openstreetmap.org/export",
+    "favicon": "https://www.google.com/s2/favicons?domain=openstreetmap.org",
+    "alt": "OSM Export",
+    "category": "Geospatial"
+  },
+  {
+    "title": "QGIS",
+    "url": "https://qgis.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=qgis.org",
+    "alt": "QGIS",
+    "category": "Geospatial"
+  },
+  {
+    "title": "MapChart",
+    "url": "https://www.mapchart.net/index.html",
+    "favicon": "https://www.google.com/s2/favicons?domain=mapchart.net",
+    "alt": "MapChart",
+    "category": "Geospatial"
+  },
+  {
+    "title": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co/",
+    "alt": "Hugging Face",
+    "category": "AI"
+  },
+  {
+    "title": "Data GOV",
+    "url": "https://data.gov/",
+    "favicon": "https://www.google.com/s2/favicons?domain=tableau.com",
+    "alt": "Data GOV",
+    "category": "AI"
+  },
+  {
+    "title": "Kotaemon",
+    "url": "https://cinnamon.github.io/kotaemon/",
+    "favicon": "https://www.google.com/s2/favicons?domain=github.io",
+    "alt": "Kotaemon",
+    "category": "AI"
+  },
+  {
+    "title": "Cohere",
+    "url": "https://dashboard.cohere.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=cohere.com",
+    "alt": "Cohere",
+    "category": "AI"
+  },
+  {
+    "title": "OpenAI",
+    "url": "https://openai.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=openai.com/",
+    "alt": "OpenAI",
+    "category": "AI"
+  },
+  {
+    "title": "OpenAI API",
+    "url": "https://platform.openai.com/settings",
+    "favicon": "https://www.google.com/s2/favicons?domain=openai.com/",
+    "alt": "OpenAI API",
+    "category": "AI"
+  },
+  {
+    "title": "Ollama",
+    "url": "https://www.ollama.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=ollama.com",
+    "alt": "Ollama",
+    "category": "AI"
+  },
+  {
+    "title": "DeepMind",
+    "url": "https://www.deepmind.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=deepmind.com",
+    "alt": "DeepMind",
+    "category": "AI"
+  },
+  {
+    "title": "TensorFlow",
+    "url": "https://www.tensorflow.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=tensorflow.org",
+    "alt": "TensorFlow",
+    "category": "AI"
+  },
+  {
+    "title": "PyTorch",
+    "url": "https://www.pytorch.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=pytorch.org",
+    "alt": "PyTorch",
+    "category": "AI"
+  },
+  {
+    "title": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=kaggle.com",
+    "alt": "Kaggle",
+    "category": "AI"
+  },
+  {
+    "title": "LibSQL Studio",
+    "url": "https://libsqlstudio.com/local",
+    "favicon": "https://www.google.com/s2/favicons?domain=libsqlstudio.com",
+    "alt": "LibSQL Studio",
+    "category": "AI"
+  },
+  {
+    "title": "MCP.so",
+    "url": "https://mcp.so/",
+    "favicon": "https://www.google.com/s2/favicons?domain=mcp.so",
+    "alt": "MCP.so",
+    "category": "AI"
+  },
+  {
+    "title": "Outerbase Studio",
+    "url": "https://studio.outerbase.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=outerbase.com",
+    "alt": "Outerbase Studio",
+    "category": "AI"
+  },
+  {
+    "title": "MaxMind",
+    "url": "https://dev.maxmind.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=maxmind.com",
+    "alt": "MaxMind",
+    "category": "AI"
+  },
+  {
+    "title": "ScrapeGraphAI",
+    "url": "https://scrapegraphai.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=scrapegraphai.com",
+    "alt": "ScrapeGraphAI",
+    "category": "AI"
+  },
+  {
+    "title": "AnyQuery",
+    "url": "https://anyquery.dev/",
+    "favicon": "https://www.google.com/s2/favicons?domain=anyquery.dev",
+    "alt": "AnyQuery",
+    "category": "AI"
+  },
+  {
+    "title": "Promptly",
+    "url": "https://www.promptly.fyi/",
+    "favicon": "https://www.google.com/s2/favicons?domain=promptly.fyi",
+    "alt": "Promptly",
+    "category": "AI"
+  },
+  {
+    "title": "FastMCP",
+    "url": "https://fastmcp.cloud/",
+    "favicon": "https://www.google.com/s2/favicons?domain=fastmcp.cloud",
+    "alt": "FastMCP",
+    "category": "AI"
+  },
+  {
+    "title": "The Hacker News",
+    "url": "https://thehackernews.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=thehackernews.com",
+    "alt": "The Hacker News",
+    "category": "News"
+  },
+  {
+    "title": "Congress",
+    "url": "https://congress.gov/",
+    "favicon": "https://www.google.com/s2/favicons?domain=congress.gov",
+    "alt": "Congress",
+    "category": "News"
+  },
+  {
+    "title": "AP",
+    "url": "https://apnews.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=apnews.com",
+    "alt": "AP",
+    "category": "News"
+  },
+  {
+    "title": "Node001 AMT",
+    "url": "http://node001:16992/",
+    "favicon": null,
+    "alt": "Node001 AMT",
+    "category": "Home Network"
+  },
+  {
+    "title": "Node001 Cockpit",
+    "url": "https://node001:9090/",
+    "favicon": null,
+    "alt": "Node001 Cockpit",
+    "category": "Home Network"
+  },
+  {
+    "title": "UniFi Controller",
+    "url": "https://unifi.lundquist.cc/",
+    "favicon": null,
+    "alt": "UniFi Controller",
+    "category": "Home Network"
+  },
+  {
+    "title": "Uptime Kuma",
+    "url": "http://node001:3001/",
+    "favicon": null,
+    "alt": "Uptime Kuma",
+    "category": "Home Network"
+  },
+  {
+    "title": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/",
+    "favicon": "https://www.google.com/s2/favicons?domain=microsoft.com",
+    "alt": "Microsoft Learn",
+    "category": "Learning"
+  },
+  {
+    "title": "Udemy",
+    "url": "https://udemy.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=udemy.com",
+    "alt": "Udemy",
+    "category": "Learning"
+  },
+  {
+    "title": "W3Schools",
+    "url": "https://www.w3schools.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=w3schools.com",
+    "alt": "W3Schools",
+    "category": "Learning"
+  },
+  {
+    "title": "CodePen",
+    "url": "https://codepen.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=codepen.io",
+    "alt": "CodePen",
+    "category": "Learning"
+  },
+  {
+    "title": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=kaggle.com",
+    "alt": "Kaggle",
+    "category": "Learning"
+  },
+  {
+    "title": "Codecademy",
+    "url": "https://www.codecademy.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=codecademy.com",
+    "alt": "Codecademy",
+    "category": "Learning"
+  },
+  {
+    "title": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=freecodecamp.org",
+    "alt": "freeCodeCamp",
+    "category": "Learning"
+  },
+  {
+    "title": "Canva",
+    "url": "https://www.canva.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=canva.com",
+    "alt": "Canva",
+    "category": "Tools"
+  },
+  {
+    "title": "Tableau",
+    "url": "https://www.tableau.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=tableau.com",
+    "alt": "Tableau",
+    "category": "Tools"
+  },
+  {
+    "title": "Cobalt",
+    "url": "https://cobalt.tools/",
+    "favicon": "https://www.google.com/s2/favicons?domain=cobalt.tools",
+    "alt": "Cobalt",
+    "category": "Tools"
+  },
+  {
+    "title": "USA Archives",
+    "url": "https://catalog.archives.gov/search?recordGroupNumber=208&f.level=recordgroup&offset=0",
+    "favicon": "https://www.google.com/s2/favicons?domain=archives.gov",
+    "alt": "USA Archives",
+    "category": "Tools"
+  },
+  {
+    "title": "ShareDrop",
+    "url": "https://www.sharedrop.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=sharedrop.io",
+    "alt": "ShareDrop",
+    "category": "Tools"
+  },
+  {
+    "title": "Snapdrop",
+    "url": "https://snapdrop.net/",
+    "favicon": "https://www.google.com/s2/favicons?domain=snapdrop.net",
+    "alt": "Snapdrop",
+    "category": "Tools"
+  },
+  {
+    "title": "JSON Crack",
+    "url": "https://jsoncrack.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=jsoncrack.net",
+    "alt": "JSON Crack",
+    "category": "Tools"
+  },
+  {
+    "title": "REPROZIP",
+    "url": "https://web.reprozip.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=reprozip.org",
+    "alt": "REPROZIP",
+    "category": "Tools"
+  },
+  {
+    "title": "MD Guide",
+    "url": "https://www.markdownguide.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=markdownguide.org",
+    "alt": "MD Guide",
+    "category": "Tools"
+  },
+  {
+    "title": "GH Markdown",
+    "url": "https://github.com/9EED/Markdown-guide",
+    "favicon": "https://www.google.com/s2/favicons?domain=github.com",
+    "alt": "GH Markdown",
+    "category": "Tools"
+  },
+  {
+    "title": "regex101",
+    "url": "https://regex101.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=regex101.com",
+    "alt": "regex101",
+    "category": "Tools"
+  },
+  {
+    "title": "regexr",
+    "url": "https://www.regexr.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=regexr.com",
+    "alt": "regexr",
+    "category": "Tools"
+  },
+  {
+    "title": "LinuxServer IO",
+    "url": "https://www.linuxserver.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=linuxserver.io/",
+    "alt": "LinuxServer IO",
+    "category": "Tools"
+  },
+  {
+    "title": "ZeroTier",
+    "url": "https://www.zerotier.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=zerotier.com",
+    "alt": "ZeroTier",
+    "category": "Tools"
+  },
+  {
+    "title": "Tailscale",
+    "url": "https://www.tailscale.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=tailscale.com",
+    "alt": "Tailscale",
+    "category": "Tools"
+  },
+  {
+    "title": "ZMap",
+    "url": "https://zmap.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=zmap.io",
+    "alt": "ZMap",
+    "category": "Tools"
+  },
+  {
+    "title": "IPInfo",
+    "url": "https://ipinfo.io/",
+    "favicon": "https://www.google.com/s2/favicons?domain=ipinfo.io",
+    "alt": "IPInfo",
+    "category": "Tools"
+  },
+  {
+    "title": "Cloudflare Radar",
+    "url": "https://radar.cloudflare.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=radar.cloudflare.com",
+    "alt": "Cloudflare Radar",
+    "category": "Tools"
+  },
+  {
+    "title": "IPQualityScore",
+    "url": "https://www.ipqualityscore.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=ipqualityscore.com",
+    "alt": "IPQualityScore",
+    "category": "Tools"
+  },
+  {
+    "title": "CyberChef",
+    "url": "https://cyberchef.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=cyberchef.org",
+    "alt": "CyberChef",
+    "category": "Tools"
+  },
+  {
+    "title": "MS365 Status",
+    "url": "https://status.cloud.microsoft/",
+    "favicon": "https://www.google.com/s2/favicons?domain=microsoft.com",
+    "alt": "MS365 Status",
+    "category": "Status"
+  },
+  {
+    "title": "MS Network Health",
+    "url": "https://connectivity.office.com/status",
+    "favicon": "https://www.google.com/s2/favicons?domain=office.com",
+    "alt": "MS Network Health",
+    "category": "Status" 
+  },
+  {
+    "title": "iCloud Status",
+    "url": "https://www.apple.com/support/systemstatus/",
+    "favicon": "https://www.google.com/s2/favicons?domain=apple.com",
+    "alt": "iCloud Status",
+    "category": "Status"
+  },
+  {
+    "title": "AWS Status",
+    "url": "https://status.aws.amazon.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=amazon.com",
+    "alt": "AWS Status",
+    "category": "Status"
+  },
+  {
+    "title": "GCP Status",
+    "url": "https://status.cloud.google.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=google.com",
+    "alt": "GCP Status",
+    "category": "Status"
+  }
+]
+

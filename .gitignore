@@ -137,3 +137,26 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files used by macOS
+#Icon?
+#._*
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# macOS volume info
+.VolumeIcon.icns
+
+# macOS metadata files
+*.AppleShare
+
+# macOS resource forks
+*.ResourceFork
