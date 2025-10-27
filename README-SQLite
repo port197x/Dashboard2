@@ -1,0 +1,112 @@
+# README-SQLite
+
+---
+
+```markdown
+# 🧭 Link Dashboard (Local Dev Version)
+
+This project is a modular, frontend-rendered dashboard that dynamically loads links from a local SQLite database via a Flask API. It’s designed for editorial clarity, future backend flexibility, and dignified UX.
+
+---
+
+## 🧱 Architecture Overview
+
+| Layer        | Tech            | Role                                      |
+|--------------|------------------|-------------------------------------------|
+| Database     | SQLite           | Stores link metadata (title, URL, category, etc.) |
+| Backend API  | Flask (Python)   | Serves `/api/links` as JSON               |
+| Frontend     | HTML + JS        | Fetches and renders links dynamically     |
+| Styling      | Bootstrap 5      | Responsive layout and clean UI            |
+
+---
+
+## 🚀 Local Setup
+
+### 1. Start Flask API
+
+```bash
+# (Optional) Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install dependencies
+pip install flask flask-cors
+
+# Run the server
+python app.py
+```
+
+Make sure `app.py` includes:
+
+```python
+from flask import Flask, jsonify
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app, origins=["http://127.0.0.1:5500"])  # Adjust if needed
+
+@app.route('/api/links')
+def get_links():
+    # Return a flat list of link objects from SQLite
+    ...
+```
+
+---
+
+### 2. Serve Frontend
+
+Use Live Server, `http-server`, or Python:
+
+```bash
+# From the folder with index.html
+python3 -m http.server 5500
+```
+
+Then visit: `http://127.0.0.1:5500`
+
+---
+
+## 🧩 Features
+
+- ✅ Dynamic rendering of links from API
+- ✅ Grouped by category
+- ✅ Real-time search filter
+- ✅ Favicon fallback logic
+- ✅ Bootstrap layout with responsive cards
+
+---
+
+## 🛠 How to Update Links
+
+1. **Edit the SQLite database** (e.g., using DB Browser for SQLite)
+2. **Restart Flask** to reflect changes
+3. **No need to rebuild frontend** — it fetches fresh data on load
+
+---
+
+## 🧪 Future Enhancements
+
+- [ ] Add `published` flag and filter out drafts
+- [ ] Export to static JSON for production use
+- [ ] Add category icons or tooltips
+- [ ] Migrate backend to Node.js (Express) for Netlify/Vercel compatibility
+- [ ] Host backend on Render, Railway, or Supabase (e.g., Neon DB)
+
+---
+
+## 🧼 Editorial Notes
+
+- All rendering is done in JavaScript for maximum portability
+- Backend is intentionally minimal — just serves raw data
+- Designed for clarity, modularity, and future-proofing
+
+---
+
+## 🧠 When You Return
+
+- Run `python app.py` to start the API
+- Serve `index.html` via local server
+- Edit `dashboard.js` to tweak layout or logic
+- Use this branch as your experimental playground
+
+---
