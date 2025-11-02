@@ -358,6 +358,34 @@
     "category": "News"
   },
   {
+    "title": "Aviation Weather",
+    "url": "https://aviationweather.gov",
+    "favicon": "https://www.google.com/s2/favicons?domain=aviationweather.gov",
+    "alt": "Aviation Weather",
+    "category": "News"
+  },
+  {
+    "title": "NWS",
+    "url": "https://www.weather.gov",
+    "favicon": "https://www.google.com/s2/favicons?domain=weather.gov",
+    "alt": "NWS",
+    "category": "News"
+  },
+  {
+    "title": "Reuters",
+    "url": "https://www.reuters.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=reuters.com",
+    "alt": "Reuters",
+    "category": "News"
+  },
+  {
+    "title": "BBC News",
+    "url": "https://www.bbc.com/news",
+    "favicon": "https://www.google.com/s2/favicons?domain=bbc.com",
+    "alt": "BBC News",
+    "category": "News"
+  },
+  {
     "title": "Congress",
     "url": "https://congress.gov/",
     "favicon": "https://www.google.com/s2/favicons?domain=congress.gov",
