@@ -428,6 +428,27 @@
     "category": "Home Network"
   },
   {
+    "title": "ChangeDetection",
+    "url": "http://node001:5000",
+    "favicon": null,
+    "alt": "ChangeDetection",
+    "category": "Home Network"
+  },
+  {
+    "title": "Grafana",
+    "url": "http://node001:3000/",
+    "favicon": null,
+    "alt": "Grafana",
+    "category": "Home Network"
+  },
+  {
+    "title": "Coursera",
+    "url": "https://www.coursera.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=coursera.org",
+    "alt": "Coursera",
+    "category": "Learning"
+  },
+  {
     "title": "Microsoft Learn",
     "url": "https://learn.microsoft.com/en-us/",
     "favicon": "https://www.google.com/s2/favicons?domain=microsoft.com",
