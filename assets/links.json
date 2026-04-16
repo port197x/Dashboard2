@@ -638,6 +638,13 @@
     "category": "Tools"
   },
   {
+    "title": "Astral",
+    "url": "https:astral.sh",
+    "favicon": "https://www.google.com/s2/favicons?domain=astral.sh",
+    "alt": "Astral",
+    "category": "Tools"
+  },
+  {
     "title": "MS365 Status",
     "url": "https://status.cloud.microsoft/",
     "favicon": "https://www.google.com/s2/favicons?domain=microsoft.com",
