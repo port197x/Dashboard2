@@ -5,6 +5,7 @@
   "Home Network": "./assets/icons/house-fill.svg",
   "Learning": "./assets/icons/book-half.svg",
   "Tools": "./assets/icons/tools.svg",
+  "Content": "./assets/icons/media-content.svg",
   "News": "./assets/icons/newspaper.svg",
   "Status": "./assets/icons/bell-fill.svg"
 }

@@ -645,6 +645,83 @@
     "category": "Tools"
   },
   {
+    "title": "Pixabay",
+    "url": "https://www.pixabay.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=pixabay.com",
+    "alt": "Pixabay",
+    "category": "Content"
+  },
+  {
+    "title": "FlatIcon",
+    "url": "https://www.flaticon.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=flaticon.com",
+    "alt": "FlatIcon",
+    "category": "Content"
+  },
+  {
+    "title": "svgrepo",
+    "url": "https://www.svgrepo.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=svgrepo.com",
+    "alt": "svgrepo",
+    "category": "Content"
+  },
+  {
+    "title": "Pexels",
+    "url": "https://www.pexels.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=pexels.com",
+    "alt": "Pexels",
+    "category": "Content"
+  },
+  {
+    "title": "Giphy",
+    "url": "https://www.giphy.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=giphy.com",
+    "alt": "Giphy",
+    "category": "Content"
+  },
+  {
+    "title": "Unsplash",
+    "url": "https://www.unsplash.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=unsplash.com",
+    "alt": "Unsplash",
+    "category": "Content"
+  },
+  {
+    "title": "The Noun Project",
+    "url": "https://thenounproject.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=thenounproject.com",
+    "alt": "The Noun Project",
+    "category": "Content"
+  },
+  {
+    "title": "IconFinder",
+    "url": "https://www.iconfinder.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=iconfinder.com",
+    "alt": "IconFinder",
+    "category": "Content"
+  },
+  {
+    "title": "IconArchive",
+    "url": "https://www.iconarchive.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=iconarchive.com",
+    "alt": "IconArchive",
+    "category": "Content"
+  },
+  {
+    "title": "IconScout",
+    "url": "https://iconscout.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=iconscout.com",
+    "alt": "IconScout",
+    "category": "Content"
+  },
+  {
+    "title": "freesvg.org",
+    "url": "https://www.freesvg.org/",
+    "favicon": "https://www.google.com/s2/favicons?domain=freesvg.org",
+    "alt": "freesvg.org",
+    "category": "Content"
+  },
+  {
     "title": "MS365 Status",
     "url": "https://status.cloud.microsoft/",
     "favicon": "https://www.google.com/s2/favicons?domain=microsoft.com",
